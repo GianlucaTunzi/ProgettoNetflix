@@ -1,0 +1,42 @@
+body {
+    background-color: #141414;
+    color: whitesmoke;
+    margin: 0 2em;
+    font-family: "Roboto";
+}
+.sfondoNetflix {
+    background-color: #141414 !important;
+    border: none;
+    padding-left: 0;
+    margin-left: 0;
+}
+.btn-genres{
+    background-color: black;
+    color:gray;
+    border: 1px solid gray;
+    border-radius: 0;
+}
+.immagini {
+    width: 15em;
+}
+main h2{
+    padding-bottom: 10px;
+    font-weight: 600;
+}
+main h1{
+    font-weight: bold;
+}
+.ulFooter > ul > li {
+    list-style: none;
+}
+footer {
+    width: fit-content;
+    color: gray;
+}
+.ulFooter{
+    gap: 5em;
+}
+#layoutButton {
+    justify-self: self-end !important;
+    margin-left: auto;
+}
